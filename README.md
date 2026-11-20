@@ -23,7 +23,7 @@ Hey, I'm Muaawiz!
 
 🚀 I enjoy turning real-world problems into clean, reliable, working software.
 
-🔭 Currently building Spotter (VOLO), an AI drone crowd-safety startup, and exploring computer vision, IaC and CI/CD.
+🔭 Currently building VOLO, an AI drone crowd-safety startup, and exploring computer vision, IaC and CI/CD.
 
 📬 For opportunities or just a friendly chat: [![Gmail Badge](https://img.shields.io/badge/-mmuaawiz@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mmuaawiz@gmail.com)
 
@@ -94,12 +94,10 @@ Hey, I'm Muaawiz!
 ---
 :briefcase: My projects :
 ---
-- ## [Spotter – AI Drone Crowd Safety (VOLO)](https://totallynotspying.ca)
+- ## VOLO – AI Drone Crowd Safety
 Tags: *#computer vision #AI/ML #cloud #startup*
 
-A live crowd-safety platform for outdoor events, built with a 3-person team. Drone video streams into a YOLO + ByteTrack detection worker that counts people in each zone and flags anyone who steps into a closed area. Supervisors get an alert with a snapshot and choose to dispatch or dismiss. In head-to-head tests against Google Video Intelligence and Roboflow, Spotter was the only product to raise both crowding and breach alerts on a live feed, with breach alerts in about 0.6 s (Python, YOLO, ByteTrack, OpenCV, FastAPI, React, TypeScript, PostgreSQL, Docker, Terraform, AWS ECS Fargate, S3, CloudFront).
-
-[Live app](https://totallynotspying.ca)
+A live crowd-safety platform for outdoor events, built with a 3-person team. Drone video streams into a YOLO + ByteTrack detection worker that counts people in each zone and flags anyone who steps into a closed area. Supervisors get an alert with a snapshot and choose to dispatch or dismiss. In head-to-head tests against Google Video Intelligence and Roboflow, VOLO was the only product to raise both crowding and breach alerts on a live feed, with breach alerts in about 0.6 s (Python, YOLO, ByteTrack, OpenCV, FastAPI, React, TypeScript, PostgreSQL, Docker, Terraform, AWS ECS Fargate, S3, CloudFront).
 
 ---
 
